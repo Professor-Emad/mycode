@@ -1,0 +1,20 @@
+body {
+    background-color: whitesmoke;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    margin: 9px !important;
+    border-radius: 10px !important;
+    float: right;
+    position: block;
+}
+
+p {
+    margin: 15px !important;
+}
+
+.form {
+    float: right;
+}
